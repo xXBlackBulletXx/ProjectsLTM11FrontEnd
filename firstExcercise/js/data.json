@@ -1,0 +1,944 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQCFQEAAMjLXLH7AiuofB6Gdr4PlVuWG-98yTfUykhq2SpKMWNZSYYKtbZNkqy2oulvX4Rpbkd_ESYNiEy35FPIYAwrT25m-sM3DiRDy8XC9UFvj4XhGUZPO7W_HvnmYO3gW7ziPI_Bh-cCyrKcIp92nBmv14GTNryIAKZXrg1UxaAlc43RIQAGJmhkHHD3k4qxIqCKvumZzTxQJqbLnEOejXr7zkZqFc9TFwL0ANam30sjX2ZjULqtuC2IQ9WUM-oyQk0JvwyMWTLiN7ZxpMpTKT4mXBLD_ei6nqZlcUgmGCanYprH7Aq-3GJnjn2t20a1jRMoVyz1kzqSU3gfrkyq-G8LdntN4vM8MR7Yy1JAOy31gYPjEi1uEU1NYXcPntauH_xNRhIQe7tKtW8Vin7_gqAzHjcqSBoUT4v2uBYaAisg46GysR_CQYw_Cw8",
+    "results": [
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.858444,
+    "lng": 2.3500735
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.85981638029151,
+    "lng": 2.351544680291501
+    },
+    "southwest": {
+    "lat": 48.85711841970851,
+    "lng": 2.348846719708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "28cd09c9859f2cc5910d05ae48a42f5767afe62a",
+    "name": "Benoit Paris",
+    "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 3024,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/105335734542596715712/photos\">Joe Hsu</a>"
+    ],
+    "photo_reference": "CmRaAAAA9OAJeX3RYBn43P4xWuBXm5K06m5Df2ilmjE6qN0VYJ1fHZOXP-wiaVPNKpIfs2U-BgPOFI8ZN-BTKHlpNsIjWvffsvNyhPXmV3EH7iQZJYG3v6XI_8BtH35y_sCSu8v3EhCmCWY-QBYlD_SzzobkVb9KGhR4x7k7gPb7JVrQ52P2_xf84P4EUw",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJQ0bNfR5u5kcR9Z0i41-E7sg",
+    "price_level": 4,
+    "rating": 4,
+    "reference": "CmRSAAAA_5GxrPTkqHijns3NF2yqREKG6u--pgAQVDk3xtZbaq2E-g8GZkdl-NG2FJlkxo4QcvgrSA_Z8kXOFCZfo_uiGJUzAmCvLCUDJUbNGGxjjns24CyHU6qDpz-BD7yJHrLTEhCGi1ABEQrs-UxHpH35Ffl8GhT2BSwmUHKRF8P6-CuzVm9t8S5IAg",
+    "scope": "GOOGLE",
+    "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "20 Rue Saint-Martin, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85895000000001,
+    "lng": 2.3482197
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8602473802915,
+    "lng": 2.349678730291502
+    },
+    "southwest": {
+    "lat": 48.8575494197085,
+    "lng": 2.346980769708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "1864a561a828443828078ea1094e2ae1d2cec01d",
+    "name": "Starbucks Coffee",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2988,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/101964019451801470996/photos\">Arnaud Lefort</a>"
+    ],
+    "photo_reference": "CmRaAAAAlrrLAyL1EQDr6YAZFKgP9vJzNsycg70FejI4CJXVyz80IbAv6OdLunE9qTDS2fN-wg3vONPHFUZZZ9ECaaJNGDpDyIyITHTyaNF3W2hS8-ON8f5W9ONgdL6hTObjOj7aEhBaDjCyl-gAwMlhw82wc4c8GhT3ZGYV28zqr_5rPmAAHK5N-STxWg",
+    "width": 5312
+    }
+    ],
+    "place_id": "ChIJaaD7-R5u5kcRBQM_mYWYdHQ",
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "CmRRAAAA7eDjYHh1u4wNBNmw3YPlPEEu0TndLpnHZ49rjy0p9Z4SaIfLQcbZ8fPHvHJpscOJ-F7FPd1fQPiXxFjzMcY-wEC_NEve0_va4PlgyV1q1Ok_kVsyB1FuUrt5kG4Q4wCQEhDD3dThkgwmMA9IoYchlUBsGhSSgY-l8wHgfI0VXmq4YirApPbBNg",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "11 Boulevard de Sébastopol, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.857556,
+    "lng": 2.34964
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8589324802915,
+    "lng": 2.350870380291502
+    },
+    "southwest": {
+    "lat": 48.8562345197085,
+    "lng": 2.348172419708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "b4ff512d86498a0d18925104735c5de4062b12f7",
+    "name": "Compose - Hotel de Ville",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2448,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/108287166825477779096/photos\">Compose - Cantine sur Mesure</a>"
+    ],
+    "photo_reference": "CmRaAAAAiolRVm-ttK1BebDMe5-aGwdpcieuRatpKVMTnlr3fd-JjAfCwty1EHnPqIVkHof_5mE3jlcRnCHjnH8CW9q95D_X3woOYTigsExCYZuHo6mn_28wK4O4umNT4Ctl1WPoEhAfRmRXptfpWCyuyV6bmCQSGhTPosmry5_7k2YUs21BanUoEz_S3Q",
+    "width": 3264
+    }
+    ],
+    "place_id": "ChIJM-MmbR5u5kcRYfCWNoZ6YOc",
+    "rating": 4.1,
+    "reference": "CmRSAAAAJIqIjZLhVx6EmJj4fRQHZwgjzFd_po9u65q-RRpZ2ql4Smlcfkp5XVuEPo7z3cwP0SnIroJr45QGk7Ofl0JlRDTdD5WonfM_32fKpSqmMrLasmlYolN9QYRONwlyN7K4EhAK2gxnYOC_qGW4W9ZUBLbCGhQpbRueewr5sBSsxDBav0AvkH6m_g",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "8 Rue Saint-Martin, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8590096,
+    "lng": 2.3487726
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8603841302915,
+    "lng": 2.350013730291502
+    },
+    "southwest": {
+    "lat": 48.8576861697085,
+    "lng": 2.347315769708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1daacd9ce362fbc7c541577722da116d7ff6689a",
+    "name": "Monop'",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 630,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/114379397008088482113/photos\">patrick belot</a>"
+    ],
+    "photo_reference": "CmRaAAAAjNJtQ8O-62QODXqUoGC5ZqIQPOySLC3BmAn6SfejXmHsjX-9isdT4IRVaDMeQ5jhHDVvz5uvd-7l_11mVoU92z422gyO2xPsItSLJF9IX-w8yByxjOwM8xNOR_sR6QtFEhAIjsBfba7jscH2UGUKk02AGhRH8yi3A3mqKV7RgqIIHvEof_twZQ",
+    "width": 1200
+    }
+    ],
+    "place_id": "ChIJmaeK8B5u5kcRB2t1fwHgQWw",
+    "rating": 3.8,
+    "reference": "CmRRAAAAk2uyQzhDbJmbKNgb37hKX-Or9lS1JT56mnkaOSEQmqMePPADw1chokO8CiJYfSY8MSqQ-1QL5deHtPTOrrVw6EbB5RCH2ixUZxzO8ssYZnYv6Fu2i4Bn6Umo0HB22_BoEhB0Qy-dXZXQZSckB9E42xACGhTE4ozjpoRDKUdRRjcS81EoSUjgJw",
+    "scope": "GOOGLE",
+    "types": [
+    "supermarket",
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "6 Boulevard de Sébastopol, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85848319999999,
+    "lng": 2.3550218
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8597962302915,
+    "lng": 2.356452630291502
+    },
+    "southwest": {
+    "lat": 48.8570982697085,
+    "lng": 2.353754669708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "280419dc7db0577d37d0edf51d1fe23b0cff4313",
+    "name": "OPEN Café",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 567,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115649731380086979022/photos\">OPEN Café</a>"
+    ],
+    "photo_reference": "CmRaAAAAvmarfo4Amzaan6bZSjAsWPAzLbYipcfsZjbidnRKMl0l-KxAbOfYQhyskTGTCqiMxSnq4c_ly-u8MTfZvuSNrnHadqyBXLZJM34lEH7O6mjC9JvS3aNI1Guibaj42zsBEhA77h7SgnZG88gjMhzyO4lZGhTf_zRNKvLyRnDM2Mlgpmsxb43zYQ",
+    "width": 720
+    }
+    ],
+    "place_id": "ChIJh6fvJx1u5kcRdcs3kDJ1Ha4",
+    "rating": 3.6,
+    "reference": "CmRSAAAAzXVakY9RDYx7WRdhj3OQIgGnxTUavqHU2inWjhzHMMR1je8DAXYzjVJQSqkvucXOi7iKNFR8m-meCrz-spCbFu7JP4HNyKkeA6PkWQsFN_xfeXXK8fbCgnkCyQo-JValEhAQlCNTbnw1YAgcUdriFyhDGhQR1hnBIEmtrlOkzu918LR7smjuuA",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "17 Rue des Archives, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.858232,
+    "lng": 2.351495
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8595415802915,
+    "lng": 2.353003380291502
+    },
+    "southwest": {
+    "lat": 48.8568436197085,
+    "lng": 2.350305419708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b834528d03cde6b73e0995be2db73fa35e6e087f",
+    "name": "Naturalia",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "place_id": "ChIJq8_3ihhu5kcRm1bZ4Sp-9O0",
+    "rating": 3.4,
+    "reference": "CmRSAAAApIWNMSWnmHG5-ekkIm3gcjoCzeBiNUmu0cce03d4W_tXT0gQAhyma_h-_ZLmXUsO40vdcgOniJYfRcoaiSNeHxYQkXgxNYmnIi9W65ABFiMIbDSZp-SXJg6rN8oLa2AsEhDR77wjTW_4tSS_64BuwlemGhRU3JCyuDO0Zkz-5G8yKmKYDHBRag",
+    "scope": "GOOGLE",
+    "types": [
+    "grocery_or_supermarket",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "11 Rue du Renard, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85961359999999,
+    "lng": 2.3520606
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.86103223029149,
+    "lng": 2.353419630291501
+    },
+    "southwest": {
+    "lat": 48.8583342697085,
+    "lng": 2.350721669708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "65c383276b3c5df6a9a8ce19df4cf7be211766ab",
+    "name": "Paris Beaubourg",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 1439,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/111124930081935539248/photos\">Mikko Tyllinen</a>"
+    ],
+    "photo_reference": "CmRaAAAAZYqhS68cOkXEZOBLS4lJVYZOO6nG-UtY-l5WiNYNRkvNV5l0JgCw5vDe-om5zXI0FVkLdR4ykZ0_xhlYmHpBxujOLcUKarfWBAosPBZXoKbvaIxpDw567-0Jf08HK_yvEhDkAv6I-yvO9vS_3GMd9b5WGhSBQV7zogLzZEEPRyK11aIa2DPFCQ",
+    "width": 1920
+    }
+    ],
+    "place_id": "ChIJQfuPQhxu5kcRtJCwR4qDJCo",
+    "rating": 3.6,
+    "reference": "CmRRAAAAzzgySW5zGTgD9OvcVV6xgNeIdxwOyfS6e89ASI3vZrbUh_dkLPOM7tPoAzKTPcC5V3nXPYfZsJfMIwy1kztXHzGe83m5QJZuSxos1Q0qrPmIQrS9d8ZZmaGlkh8fOOnJEhA-FcAaAdEYaxqtoGf_VgR8GhQV4vuZLfgbh3mPZ4SDla42hRzQag",
+    "scope": "GOOGLE",
+    "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "23 Rue Saint-Merri, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.857701,
+    "lng": 2.356574
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.85908128029151,
+    "lng": 2.357890380291502
+    },
+    "southwest": {
+    "lat": 48.85638331970851,
+    "lng": 2.355192419708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "60802f54cbd60266e49040199f6f2bdcb6263d65",
+    "name": "Mariage Frères",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 3456,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/114481038226141820988/photos\">Henri Saromsky</a>"
+    ],
+    "photo_reference": "CmRaAAAAdJ_SrFU2BSlnUMC30JNiZaPZPfoYUnji_pkYjfWBIww1Xij9MsWnONFTyYFpEBBeRLWFfi71arcjt9d6NPBU74VDFjc9oAGyEm2-__pe1xMc8Gvt4_BW6jKMuGG3R4iSEhCgQeHmnuhUKsGN9KOOIkJ6GhRgXdA191LKgFOzESq32cvm7PVpYQ",
+    "width": 5184
+    }
+    ],
+    "place_id": "ChIJMdiBxQJu5kcR7FA7VaMsct4",
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "CmRSAAAAmLKnyFA6EYTDxjhb-2JRsnVaLsPTlX0Sk0-ndvuCCtnLt44Qr7kMO7lg9DZPt7XxlMes53FYELo8M7A0bxo4NkBxRshU_KVCV9LXo2_OjvtCX8JT7EJjQZo4R_D7Nsb1EhBY8VRFRu6WL8ndl5AB046zGhQQdByB1ehTFp0CT-jw_2ZQrKLtKg",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "30 Rue du Bourg Tibourg, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8604385,
+    "lng": 2.3504617
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.86173908029149,
+    "lng": 2.351780680291502
+    },
+    "southwest": {
+    "lat": 48.85904111970849,
+    "lng": 2.349082719708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "afc84cb95084f04ca44a5a1594b7246ac4ab5ba9",
+    "name": "Starbucks Coffee",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2448,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/109200964534595505274/photos\">HAMELIN Mickaël</a>"
+    ],
+    "photo_reference": "CmRaAAAAu7mOoLkFmCfLm4k-tMywuAa8nzalhqZlrbKw2j6qkchBbJYhm59VRCfU00uOQUDnbtABw3Pb1u9jV59zIu5XNA2em8mkumIyhWJzv5jLCgnwJiIjfCS0qCsNt538ZhEUEhDaTf5hIa1u0603BWTql9QCGhR74gaof8voHyRuGBpDPRiIGa-87A",
+    "width": 3264
+    }
+    ],
+    "place_id": "ChIJkaeipR5u5kcRvaZ7Cew8DQ8",
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "CmRRAAAAM6lSjBXcue6B2lc2KQMPvD27BXlTfFdJTbHiFCK1d3dmbhv6NZVZJHN_SRFOr9vFsXf4kVPUpWSyan7zcaFjzoGq8WADP0aDMpcY6wI1LbiRG689W36mC0Mv70Mm-M2DEhASsN_fFxN3QwmkJyafMFAHGhT6vN6jufmy_Nd7V99Wi_YnaFy-fQ",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "4 Rue Aubry le Boucher, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8594006,
+    "lng": 2.3479901
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8607744802915,
+    "lng": 2.349288730291502
+    },
+    "southwest": {
+    "lat": 48.8580765197085,
+    "lng": 2.346590769708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "606710587321d7815a28ca10c1246b35a0e419d0",
+    "name": "Café Oz Châtelet",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 1325,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/101225952015816812249/photos\">Café Oz Châtelet</a>"
+    ],
+    "photo_reference": "CmRaAAAAgsQpt-4-Gc6_Hz498_AkWVJlrhVzBX8r8UkRDr33Cc6oLM_Tl_OjKkig0rbBLYpyFnE6z7sTYCxYHQwfgVooVBgFfk_iaqzcEl2LTM_hTX7s-QPcLXYtQrXTSqKg2g0IEhBNpr_lZCmxtlqUzAKiNv8IGhRwsXspvPK31cHdTv9U6ZupOYt3iw",
+    "width": 2000
+    }
+    ],
+    "place_id": "ChIJ9XyV5B5u5kcRA2PRdiGh4uY",
+    "rating": 3.6,
+    "reference": "CmRSAAAAsOqg0SaMMA7JVCnVGxpEEVRijnCmYZSmsgVx6AAOu-iuaRg4IvAv6ApOF7wVepPIR6ZJFDUDxTUvronNunx_Vr2EsFlHY9o3sDjPfDpk9Hg_hXcGYNnmsFSpwmYfKUP1EhAZpxIXUc8WsGzE9bWmotlUGhQ8PWBReV59Gpx9A8o_spDPlMMy5A",
+    "scope": "GOOGLE",
+    "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "18 Rue Saint Denis, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8596996,
+    "lng": 2.3486454
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8609802302915,
+    "lng": 2.350081780291501
+    },
+    "southwest": {
+    "lat": 48.8582822697085,
+    "lng": 2.347383819708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "d48689be7bc36027c841a0588d9c0c3d7b4820b2",
+    "name": "Duc des Lombards",
+    "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2988,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/106094735385575935801/photos\">Lulu Belle</a>"
+    ],
+    "photo_reference": "CmRaAAAAr7gnWdLvfsTb8isHdETW6BHQW9efTaAaDRqAI6880ZGLrjiTdeuAZg2Vc_776n4uOkrd4Km9j4JqCInMK7zPG1lQfsU3jhrdWCo_KTRfiPAKZ4mmlFPGTuDqNHXt9YCzEhB_uJH7mdMq2OkM3UP-ZVMfGhQ0R4hNtRG4KSYqsqwrwtQrTDO64g",
+    "width": 5312
+    }
+    ],
+    "place_id": "ChIJPQ9b6R5u5kcRZKolq5EBcGc",
+    "rating": 4.3,
+    "reference": "CmRRAAAAtKCKFC64av6S5WHiccjIsOHX8-EgoMpBUsQ3K_0SW8CGm2sC0s3ffgbqdLipnBkV1xE_CxpoE-NPo6ECZPDZTvwgVV20IoV01EzvTnB_VPphS99zEoPTT0ctTeEvRKq-EhC6-THEdsEd_iov00lfxfybGhSiInWYKwlD74pVgGSPI42UCm3Cvg",
+    "scope": "GOOGLE",
+    "types": [
+    "restaurant",
+    "bar",
+    "night_club",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "42 Rue des Lombards, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85422380000001,
+    "lng": 2.3502462
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8555672302915,
+    "lng": 2.351586080291502
+    },
+    "southwest": {
+    "lat": 48.85286926970851,
+    "lng": 2.348888119708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "87e0ee8a56ee1ee81418b75826772ffb868df3e1",
+    "name": "Au Vieux Paris d'Arcole",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 3648,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115766862835378218956/photos\">SAS SERRY</a>"
+    ],
+    "photo_reference": "CmRaAAAAiYrXsyq7XGimo13_oaVLe0BrA4PIhD2hoGrxs0FDOI9TStZA2rkAjvCb9cOoQxMqKFS0hNKyfq9iJKGtgClB4usqoKlD8G7OJRH4dgjudb1MuSeZKPVI6vjsr1UDSm_sEhD_fMY4e6gduEUDyqJgw2iyGhT99ZaEa9kdAibhql9ADr4d25yMXg",
+    "width": 4578
+    }
+    ],
+    "place_id": "ChIJz2mtKOJx5kcRVdl8el4VXOY",
+    "rating": 3.7,
+    "reference": "CmRSAAAAkA3Lw0RpZ-imrs9epM9vvRRBzSW0KxZfYMii5xZwSw2Fx5qKpmySwU8wRztcG9AnCDY-54KsOUFRXIpV12PflUA5TdIl75Ge-ADZ2zE4oNmEYI158UhA7MzGu56-qO5vEhCD6qtFiAG_-H3rJUm1iMNfGhSceNHM_Vz8iUvDRUIzCsgMzX-dPg",
+    "scope": "GOOGLE",
+    "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "24 Rue Chanoinesse, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8592457,
+    "lng": 2.3516688
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.86060528029149,
+    "lng": 2.352987530291501
+    },
+    "southwest": {
+    "lat": 48.8579073197085,
+    "lng": 2.350289569708497
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cb31d07aa073dd9125a3d4998de007434358d81f",
+    "name": "Crêperie Beaubourg",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 1440,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/116098729101787077124/photos\">Aaron Lieberman</a>"
+    ],
+    "photo_reference": "CmRaAAAAmiLFviFsGWyCL0VseJqUkTF1Q0O6DAotfByrztM6rrCN-exFxWLdYjHuJinooGt2WXboUJ_vlBCtt2eL18TIfvfXOCdyvdcTnxgmbrk_GQizRMy1G6-eO3lnvpxW0xgiEhBIpq-wtdPKwR5oAigI-iekGhTLsJWlDBfUHpZ2OXzIiWpxyutZ9w",
+    "width": 2560
+    }
+    ],
+    "place_id": "ChIJXU_ZNhxu5kcRc1O5i3X7i_U",
+    "rating": 3.9,
+    "reference": "CmRSAAAAw11om1YXQZUVgMI2EdzmEHVMwgdhO5T09_3gqzzQil0NI-22FS-VdgTWtpy67DH-YkU9A242ArCmRVzvm4GRQeYU4gJ7Wf51SXFD7gduRz_oYZndwSkH3vD05Cw_7J7iEhBAdnPu5oN0UbdLk5F4NmD2GhTzv3LCIdvPslwI87XfEuu5_1JZ1A",
+    "scope": "GOOGLE",
+    "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "2 Rue Brisemiche, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8594183,
+    "lng": 2.3491874
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8607466802915,
+    "lng": 2.350570630291502
+    },
+    "southwest": {
+    "lat": 48.8580487197085,
+    "lng": 2.347872669708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "622f35dd3d61034dea4bd6b92e964ccbd08469db",
+    "name": "Le Black Dog",
+    "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2988,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115943890193304537324/photos\">Jeremie Lesage</a>"
+    ],
+    "photo_reference": "CmRaAAAACWOrDewOZj-02gqwL3vzzKhsth189OYAIbmyf8bEsJayyfMJlHsKpsHbdFjx7sqlD9pU_LO_rYlC4sUIm3ra-kpqhoDjyHZ3hMb1GjQxIKGdxyHSIyP0VrF8VQCUZT7oEhAizvpIcGvSuQjpag2UNB4uGhRyod9UWN0SXYlR-9VfIYf_MGrz4Q",
+    "width": 5312
+    }
+    ],
+    "place_id": "ChIJpeZVkh5u5kcRlgAMWV9ozpU",
+    "rating": 4.3,
+    "reference": "CmRSAAAAN7orXKn0qoHdCIHwn6S2XKpx15jz-ijDifkwAexuoePmFpimRTfkD0rGFaDZePIrZ2AoFGOI0CpL3F7ZL-dIG2jEBQn73RsqKi6yxRLh1D7Nx8Le1eWLNFT-Xg0gsGrZEhAPK2AE_ovJtApDjWULTebuGhQl4edrbiXTe4pnbwteV2SW3H7ULw",
+    "scope": "GOOGLE",
+    "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "26 Rue des Lombards, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.857807,
+    "lng": 2.346889
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8591276802915,
+    "lng": 2.348356980291502
+    },
+    "southwest": {
+    "lat": 48.8564297197085,
+    "lng": 2.345659019708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "c8f8451e9b893d8b5e57b87dfb65279d26120408",
+    "name": "café le Zimmer",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2268,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/111897099621451766444/photos\">Terry Bradley</a>"
+    ],
+    "photo_reference": "CmRaAAAAE5CSZrV11G6biLJyR9vNe3WMDiGjQhWqvlQA-W9TzNP7b-ZyPdZQJJ5QkyJg8fRRu1b38ABF0M_O1jhqU_F98Z1sBQ78yi30VhTnBDG1TqTKh1Ozv268Fw07A10w0KppEhB-FuJ-SpGhpNDghGkRENVJGhT5cMy-UvulbSKpd5kj6BhBvxZF_g",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJI5HJsx9u5kcRJl41efCbOAw",
+    "rating": 3.7,
+    "reference": "CmRRAAAAwREz1GjGQRLKJKKmCzG2R_5tST7gU3h7EFLJdBezTOmTpsJeqd6Sl-O3BolieNhJ_PtB0q7-yWvKkhggehQBZdvj4SIUJB0_xnYYLrLpxPEwoS55QbLLcq4X10bdTSGpEhBV4J1-d_J_rI2WiMYtuleXGhR4TVyrYk4jZAScx0k-sTpKF0ooqQ",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "1 Place du Châtelet, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85762769999999,
+    "lng": 2.3573381
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8590121302915,
+    "lng": 2.358668530291502
+    },
+    "southwest": {
+    "lat": 48.8563141697085,
+    "lng": 2.355970569708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "f9382427af1e4c29a117775a3e504aa13763ccdd",
+    "name": "Jaja",
+    "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 3024,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/113061469659702087035/photos\">luc delattre</a>"
+    ],
+    "photo_reference": "CmRaAAAAcMa9nQIKb7JUJXukMECfSre3ZpARPtL_KOSSXw0aW6a-1--DzfFQNu0rQILuIgHdIEMVNylyI8GkuKXdJz9lLss75ciJw_7IVh891QNa_5OhO9f7SSO4y1KY8-4wj37ZEhDiMbqisEu8PkNohY65AurqGhRlZxaby-QflKoMkz0HSavNHkBFhw",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJMQVT6AJu5kcRRTJqTENzZus",
+    "rating": 3.9,
+    "reference": "CmRSAAAAs9tHZepWfNXSEK4LsOADlCRnQm00NB2-Abh6NYRxZXFCkwMV6KaoZgV0ursHo2jQzQZp_HnEXOZqu5sITYZeffxmeD55LOmsErz_ej6FjiapMKs7e69tRcXHrQybl9A-EhDB-0O_aYlWBR5XcK2WzSYuGhR_7WDr_v1yVsZnx8qRuvQHQ3MQgQ",
+    "scope": "GOOGLE",
+    "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "3 Rue Sainte-Croix de la Bretonnerie, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.85684999999999,
+    "lng": 2.354925999999999
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8581353802915,
+    "lng": 2.356267380291502
+    },
+    "southwest": {
+    "lat": 48.8554374197085,
+    "lng": 2.353569419708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "9d5094a594be736b2d53c1829f01e4d2e50ecc09",
+    "name": "Starbucks",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 5312,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/114226318987514967212/photos\">Amir Levintal</a>"
+    ],
+    "photo_reference": "CmRaAAAAlZSGKui9odePFkCV7iDGC7KcIehi6bDYEWIIwPuI2sU0iE_daKQf_xMU1vidd-k2wL5eHpyRgQa_ewnt_F-q0kiepaezlnt_PkzWSQg-7U6q0UOW9arQ0vQMWFw25JQqEhDBO-bC3Owik0EZRUWjRJb1GhTRr26hLWjch5Waks-3zFw-4B6Lbg",
+    "width": 2988
+    }
+    ],
+    "place_id": "ChIJkaeipR5u5kcRdooY8c8ZpW8",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "CmRRAAAAEXhHvmbw6iNzPCj_mZyck9ZXyXp-n7ZnNvYdl4y_RuiMLxCNaxsxfk2-soFiq390nPlVv6k3kYLNmLAUoRddNfdKqkKqXJYcpP8H5HHf3OL9vjovb-7nSGqC7_QNFBwzEhD1CyG-Mi14FJXpYX8WW0WkGhRYqb0KEGT_8SA3BGsb3uhbwmG1dw",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "46 Rue de Rivoli, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.859186,
+    "lng": 2.3499455
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8604950802915,
+    "lng": 2.351262530291502
+    },
+    "southwest": {
+    "lat": 48.8577971197085,
+    "lng": 2.348564569708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "d75bc71cc4bfd495a7d51dd59c8f8ee51a913fa4",
+    "name": "Les Piétons",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 3366,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115998568742784916514/photos\">Michel Sigé</a>"
+    ],
+    "photo_reference": "CmRaAAAAYJc54YGsSDsPwG4Ca4K-81e4m-02drCG9Oxr2FZ2_4Z82ZHdcdSTrMWajrSdx73QGcq3I_1UBlkGAPR_q_bzX9BjRasLKzcJahf9udfg8kESZhxiBem-CpJjVzFmO5d1EhAztxPMdx6ic25wpQtxM1CGGhSox2pxYR1dUlmHh6TKt1GYMXD2Uw",
+    "width": 5984
+    }
+    ],
+    "place_id": "ChIJGeEAWRxu5kcRSLaSzbkpG-s",
+    "rating": 3.9,
+    "reference": "CmRSAAAAqIDPPJ3625rw67HPc_oOW2hHZAe2h9IvPxo8L0tBflIf4vl_ZXg09jUkHdEI3QIzbmoz76IyUlbZOgMp3KuVIsfh9lP346kafWFPoEgx8F-Tgxr6yJUlpY0hxt_NlG7GEhAe-GJtYUE9EQnOZIqGvePOGhS3Qa7fFIF92xWscJ2qtHBuh25bdA",
+    "scope": "GOOGLE",
+    "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "8 Rue des Lombards, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8598427,
+    "lng": 2.3551882
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8611876302915,
+    "lng": 2.356347180291502
+    },
+    "southwest": {
+    "lat": 48.8584896697085,
+    "lng": 2.353649219708498
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8b2c095734847434ea51eaacd9cfe6b15d095f94",
+    "name": "Terres de café",
+    "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 2448,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/113195629114222552358/photos\">muriel</a>"
+    ],
+    "photo_reference": "CmRaAAAAonLEU4WAcUIhZeYa1-pQwEw_00PPeR0Jb_wGmrMygbckCt15ufru_UfV7hW7WTATOZP25g8JAqEG6_fhRJ7fh83y7OzwCSHHKbdzZfPkUEp7WnQO5CRfHuGFXzbzTH1hEhC_hIiVL-5QrClA8buWyYNQGhSkb7sQZIN5QRMB5opwUfU-eyFN_A",
+    "width": 2448
+    }
+    ],
+    "place_id": "ChIJH1ZkyRxu5kcRA-XOQQsfD6U",
+    "rating": 4.6,
+    "reference": "CmRSAAAAO96HsYU6ePYHafKWP0vtywKD-gQE42g9u8a-0gxDhX9GN7yiIPV8tzRIbEjNLj4nFDLd_gVDq1WQ2REUNrX5RJgi_iGaydYAFmws5CpwC5hNHLsj-1l6CwJPqvvUG7kQEhDwfFN89PxZOsrPtGnEHgO5GhTdXdcxUBf9_kZmwceJdjrTW4MDxA",
+    "scope": "GOOGLE",
+    "types": [
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "40 Rue des Blancs Manteaux, Paris"
+    },
+    {
+    "geometry": {
+    "location": {
+    "lat": 48.8600141,
+    "lng": 2.3509759
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 48.8614421302915,
+    "lng": 2.352366080291502
+    },
+    "southwest": {
+    "lat": 48.8587441697085,
+    "lng": 2.349668119708499
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "8976c3ecf5840bab44fb6b4a6a2eb24f370b09f8",
+    "name": "Café Beaubourg",
+    "opening_hours": {
+    "open_now": true,
+    "weekday_text": []
+    },
+    "photos": [
+    {
+    "height": 798,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/102690661638256042857/photos\">Café Beaubourg</a>"
+    ],
+    "photo_reference": "CmRaAAAAVa_LsHCQ8HPYnYd1d-Hu9HuBlImWwRLTqjEWOG_rmmOfqW4DS-lJGJL9fqkdpRLKp7IGr_PBXj-m-_mifjCpHJMmyWFof9HL4MBdANUhK-uDkLcDqJNzzo2_LK75ZMp0EhCpM-vI98bpQ_hzczLUZn3zGhTFVo4lPPTaC7G4p5vnewFbHCJiHQ",
+    "width": 798
+    }
+    ],
+    "place_id": "ChIJJeb6GBxu5kcRk0LhccqQWaE",
+    "rating": 3.6,
+    "reference": "CmRSAAAAHebbFjJQ2GZs-6Qy2CL8MyK1OV3RnyuEFJiGerzpc4qrST2OMEDRJWT3mpc9O50EaH1MC7t2IB9O2s6TC8v2BMKJ2VwZ6p3dhLuzC7Bey_F5FG_C9n5SvfidWpn1fHwGEhAf4Ug8ivWXJk6dWII0dr9AGhQqUOqsugfYqn8bTUzvFs75pJsRPw",
+    "scope": "GOOGLE",
+    "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+    ],
+    "vicinity": "43 Rue Saint-Merri, Paris"
+    }
+    ],
+    "status": "OK"
+    }

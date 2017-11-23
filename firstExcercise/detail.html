@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Deliveroo Exercise</title>
+        <meta name="description" content="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus vel dolorem quod obcaecati recusandae in adipisci, beatae voluptatem fuga sapiente at sunt nihil magnam eligendi ut perferendis repudiandae esse rem?">
+        <meta name="keywords" content="Corso HTML">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css'/>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'/>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'/>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+        <link href="https://fonts.googleapis.com/css?family=Product+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">        
+        <link rel="stylesheet" href="https://rawgit.com/xXBlackBulletXx/ThemeCSS/master/theme.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/detail.js"></script>
+    </head>
+    <body>
+        <div id="overlay" class="animated">
+
+        </div>
+        <aside id="cart" class="animated p20h p20w text-white">
+            <i class="material-icons float-right bolder p5w" id="close">close</i>
+            <h4 class="m0w m0h bolder">Il tuo Carrello</h4>
+            <ul class="list">
+
+            </ul>
+            <button class="checkout absolute p20h p20w border-radius-google z-depth-1" onclick="doCheckout()">
+                <span>Checkout</span>
+                <i class="material-icons vertical-top">arrow_forward</i>
+            </button>
+        </aside>
+        <div class="body">
+            <header class="z-depth-1">
+                <div class="col">
+                    <img class="logo"></img>
+                    <span class="material-icons cart">shopping_cart</span>
+                </div>
+            </header>
+            <div id="container" class="colMod">
+                <div id="restaurant_pic" class="maxW100"></div>
+
+                <div class="p10w m10w divInformations">
+                    <h1 class="restaurant_name">Ristorante di prova</h1>
+                    <div id="restaurant_categories"></div>
+                    <p class="restaurant_address light">Via di prova</p>
+                    <p  class="light small">Voto: <span id="restaurant_rating" class="bolder text-red-lighten-1"></span>/5</p>
+                    <p class="light small">Ordina la pizza più buona di Roma da 
+                        <span class="restaurant_name"></span> 
+                        presso 
+                        <span class="restaurant_address"></span>
+                    </p>
+                </div>
+                
+                <div class="m10w m10h divMenus">
+
+                </div>
+            </div>
+            <footer>
+                <div class="z-depth-1-2">
+                    <p id="cartTotal">€ 0.00</p>
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>
